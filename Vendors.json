@@ -1,0 +1,92 @@
+[
+    {
+        "": "1",
+        "VendorKey": "1001",
+        "VendorTier": "T0",
+        "VendorName": "Antwerp Production",
+        "VendorCountry": "Belgium",
+        "VendorCity": "Antwerp",
+        "VendorPostalCode": "2030",
+        "VendorStreet": "Scheldelaan"
+    },
+    {
+        "": "2",
+        "VendorKey": "1002",
+        "VendorTier": "T0",
+        "VendorName": "Wroc\u0142aw Production",
+        "VendorCountry": "Poland",
+        "VendorCity": "Wroc\u0142aw",
+        "VendorPostalCode": "54-202",
+        "VendorStreet": "Legnicka"
+    },
+    {
+        "": "3",
+        "VendorKey": "1003",
+        "VendorTier": "T0",
+        "VendorName": "Lyon Production",
+        "VendorCountry": "France",
+        "VendorCity": "Lyon",
+        "VendorPostalCode": "69160",
+        "VendorStreet": "Av. Mathieu Misery"
+    },
+    {
+        "": "4",
+        "VendorKey": "1",
+        "VendorTier": "T1",
+        "VendorName": "Fadel Group",
+        "VendorCountry": "China",
+        "VendorCity": "Jiaxing",
+        "VendorPostalCode": "NA",
+        "VendorStreet": "Xiuzhou District"
+    },
+    {
+        "": "5",
+        "VendorKey": "2",
+        "VendorTier": "T1",
+        "VendorName": "Stiedemann",
+        "VendorCountry": "Germany",
+        "VendorCity": "Dortmund",
+        "VendorPostalCode": "44135",
+        "VendorStreet": "27013, Talisman Park"
+    },
+    {
+        "": "6",
+        "VendorKey": "3",
+        "VendorTier": "T1",
+        "VendorName": "Walker-Homenick",
+        "VendorCountry": "Poland",
+        "VendorCity": "Poznan",
+        "VendorPostalCode": "60-001",
+        "VendorStreet": "99, Bluejay Pass"
+    },
+    {
+        "": "7",
+        "VendorKey": "4",
+        "VendorTier": "T1",
+        "VendorName": "Greenfelder and Sons",
+        "VendorCountry": "United States",
+        "VendorCity": "Detroit",
+        "VendorPostalCode": "48127",
+        "VendorStreet": "99378, Dorton Point"
+    },
+    {
+        "": "8",
+        "VendorKey": "5",
+        "VendorTier": "T1",
+        "VendorName": "DragonCell Energy",
+        "VendorCountry": "China",
+        "VendorCity": "Shanghai",
+        "VendorPostalCode": "NA",
+        "VendorStreet": "Hai Yang Lu"
+    },
+    {
+        "": "9",
+        "VendorKey": "6",
+        "VendorTier": "T1",
+        "VendorName": "JadePower Battery",
+        "VendorCountry": "Taiwan",
+        "VendorCity": "Miaoli",
+        "VendorPostalCode": "NA",
+        "VendorStreet": "392-416, Zhonghua Rd"
+    }
+]
